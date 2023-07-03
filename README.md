@@ -2,7 +2,7 @@
 
 This repository contains the artifacts attached to the paper A Retrospective Analysis of Grey Literature for AI-supported Test Automation" by Filippo Ricca (UniGe), Alessandro Marchetto (UniTn) and Andrea Stocco (TUM/fortiss), published in the proceedings of the 16th International Conference on the Quality of Information and Communications Technology (QUATIC 2023).
 
-A postprint of the paper can be found on [here](https://github.com/riccaF/quatic2023-replication-package-material/blob/main/2023-Ricca-QUATIC.pdf).
+A post-print of the paper can be found on [here](https://github.com/riccaF/quatic2023-replication-package-material/blob/main/2023-Ricca-QUATIC.pdf).
 
 ### Reference
 
